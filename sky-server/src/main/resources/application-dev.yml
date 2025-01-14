@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: 123456
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tMCpGwg41BwLkMFifAZ
+    access-key-secret: dLRdvqygMXu4qbtHU9850Tmcgges9B
+    bucket-name: davidaed-files
