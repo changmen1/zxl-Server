@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tMCpGwg41BwLkMFifAZ
     access-key-secret: dLRdvqygMXu4qbtHU9850Tmcgges9B
     bucket-name: davidaed-files
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 0
