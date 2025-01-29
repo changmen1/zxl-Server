@@ -18,8 +18,8 @@ import java.util.List;
 public class DishVO implements Serializable {
 
     private Long id;
-    //菜品名称
     private String name;
+    //菜品名称
     //菜品分类id
     private Long categoryId;
     //菜品价格
